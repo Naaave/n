@@ -18,21 +18,18 @@
 
 ## 📂 Projects
 
-### 1️⃣ Siamese Network with Convolutional Autoencoder
-- **Description:** Implemented a custom Siamese model with triplet loss for signature verification. Built an RNN-based Siamese Network and compared its performance with pretrained models for an ensemble approach.
+### 1️⃣ Accident Severity Prediction
+- **Description:** Predict the accident severity based on the features using classification supervised machine learning algorithm.
 - **Technologies Used:** Python, TensorFlow, Keras, CNN, BiLSTM, RNN
 
-### 2️⃣ Flood Area Segmentation using Deep Learning
-- **Description:** Developed a flood segmentation model using U-Net to overlay segmented flood regions onto images for better visualization. Used image processing techniques such as image erosion, dilation, grayscale conversion, and Canny edge detection.
-- **Technologies Used:** Python, OpenCV, TensorFlow, U-Net, Image Processing
+### 2️⃣ Corn Leaf Disease Detection
+- **Description:** Developed a deep learning model using CNN and Compact Convolutional Transformer (CCT) for disease classification.
 
-### 3️⃣ Distributed Channel Management System
-- **Description:** Built a Java Swing application for managing TV channel subscriptions with user authentication, subscription management, payment processing, and complaint handling. The system allows admins to manage channels and users, while regular users can subscribe and make payments.
-- **Technologies Used:** Java Swing, PostgreSQL, NetBeans
-
-### 4️⃣ Hotel Booking Management System
-- **Description:** Developed a React-based application for hotel owners to manage room bookings, check-in/out details, and payment tracking. Implemented a calendar-based UI where dates highlight availability status.
-- **Technologies Used:** React, PostgreSQL, JavaScript, Node.js
+- **Key Features:** Applied image processing techniques for disease detection, evaluated performance using accuracy, loss, and confusion matrices.
+- 
+### 3️⃣Gym Management System
+- **Description:** Building a full-stack gym management system to manage memberships, track workouts, and process payments.
+- **Key Features:** User registration, subscription plans, attendance logs, trainer scheduling, payment processing, performance analytics
 
 ---
 
